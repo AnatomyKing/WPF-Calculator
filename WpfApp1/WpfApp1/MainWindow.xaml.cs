@@ -277,7 +277,7 @@ namespace WpfApp1
             input.Text = "0";
             uhhh.Text = "";
         }
-
+//De epic 
         private void back(object sender, RoutedEventArgs e)
         {
             if (input.Text.Length >= 1)
