@@ -132,7 +132,7 @@ namespace WpfApp1
                 input.Text = input.Text + "2";
             }
         }
-
+//hallo
         private void three(object sender, RoutedEventArgs e)
         {
             if (input.Text == "0")
