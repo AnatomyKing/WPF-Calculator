@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 
 namespace WpfApp1
 {
+//// yes yes
 
     public partial class MainWindow : Window
     {
